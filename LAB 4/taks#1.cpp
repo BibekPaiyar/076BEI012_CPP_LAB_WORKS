@@ -24,7 +24,7 @@ public:
         cin >> feet >> inch ;
     }
     void showData(){
-        cout << "Distance in feet and inches is : "<< feet <<" feets, " << inch <<" inches."<<endl;
+        cout << "Distance in feet and inches is : "<< endl << feet <<" feets, " << inch <<" inches."<<endl;
     }
 
 
